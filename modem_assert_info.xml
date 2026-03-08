@@ -1,0 +1,1 @@
+03-06 17:25:21   Modem Assert HAL serve msg queue in file PS/stack/las/rrc/as_ue/src/abstraction_layers/hal/hal.c at line 1020 exp=0 info=[doHwSecCnt can not be 0]
